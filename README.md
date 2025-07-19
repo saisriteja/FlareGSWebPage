@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <div align="center">
-  <img src="ICCV2025-Author-Kit-Feb/images/Qualitative_results.png" width="800px" alt="FlareGS Teaser">
+  <img src="ICCV2025-Author-Kit-Feb/images/abstract_new.png" width="800px" alt="FlareGS Teaser">
   <p><em>Our approach addresses 4D flare removal by utilizing multi-view information through Gaussian splatting. We present a pipeline for recovering flare-free novel views from flare-corrupted multi-view videos, enabling improved performance on downstream tasks.</em></p>
 </div>
 
@@ -83,7 +83,7 @@ If you find this work useful for your research, please cite our paper:
 ```bibtex
 @inproceedings{flaregs2025,
   title={FlareGS: 4D Flare Removal using Gaussian Splatting for Urban Scenes},
-  author={[Author Names]},
+  author={Mayank Chandak and Sai Sri Teja Kuppa and Rahul and Gopi Raju Matta and Vinayak Gupta and Kaushik Mitra},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2025}
 }
