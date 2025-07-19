@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <div align="center">
-  <img src="ICCV2025-Author-Kit-Feb/images/abstract_new.png" width="800px" alt="FlareGS Teaser">
+  <img src="ICCV2025-Author-Kit-Feb/images/Qualitative_results.png" width="800px" alt="FlareGS Teaser">
   <p><em>Our approach addresses 4D flare removal by utilizing multi-view information through Gaussian splatting. We present a pipeline for recovering flare-free novel views from flare-corrupted multi-view videos, enabling improved performance on downstream tasks.</em></p>
 </div>
 
